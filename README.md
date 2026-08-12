@@ -1,0 +1,1 @@
+# 2026_2C_PF_Reconfiguracion-CNC-PCB_GARRO_NAVAS
