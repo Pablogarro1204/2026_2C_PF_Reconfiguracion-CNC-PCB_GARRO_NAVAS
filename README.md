@@ -1,1 +1,1 @@
-# 2026_2C_PF_Reconfiguracion-CNC-PCB_GARRO_NAVAS
+# Reconfiguración de una Plataforma 3D a un Sistema CNC Sustractivo para la Fabricación de Circuitos Impresos (PCB)
