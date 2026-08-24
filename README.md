@@ -1,7 +1,7 @@
 <img width="940" height="132" alt="image" src="https://github.com/user-attachments/assets/6c156dc1-102d-42d8-81ad-6696b42e37b6" />
 
 # **Plataforma CNC para fabricación de circuitos PCB** #
-El proyecto consiste en la reconfiguración de una plataforma 3D a un Sistema CNC sustractivo para el prototipado de Circuitos Impresos (PCB), orientada a optimizar las actividades de laboratorio en cátedras de electrónica.
+El proyecto consiste en la reconfiguración de una plataforma 3D a un Sistema CNC sustractivo para la fabricación de Circuitos Impresos (PCB), orientada a optimizar las actividades de laboratorio en cátedras de electrónica.
 
 ---
 
