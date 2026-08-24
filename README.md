@@ -23,7 +23,7 @@ El proyecto consiste en la reconfiguración de una plataforma 3D a un Sistema CN
 ---
 ## Descripción
 
-Este proyecto consiste en la reconversión mecatrónica de una impresora 3D cartesiana en un sistema de mecanizado CNC sustractivo para la fabricación de Placas de Circuito Impreso (PCB). La propuesta resuelve las limitaciones de tiempo, imprecisión y manipualción de insumos químicos presentes en los métodos tradicionales de laboratorio, ofreciendo una estación de prototipado rápido capaz de realizar el grabado de pistas y el perforado de vías pasantes de forma precisa, limpia y repetible.
+Este proyecto consiste en la reconversión mecatrónica de una impresora 3D cartesiana en un sistema de mecanizado CNC sustractivo para la fabricación de Placas de Circuito Impreso (PCB). La propuesta resuelve las limitaciones de tiempo, imprecisión y manipualción de insumos químicos presentes en los métodos tradicionales de laboratorio, ofreciendo una estación de prototipado rápido capaz de realizar el grabado de pistas y el perforado de orificos pasantes de forma precisa, limpia y repetible.
 
 ## Objetivos
 
