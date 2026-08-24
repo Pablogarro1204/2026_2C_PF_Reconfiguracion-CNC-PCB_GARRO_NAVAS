@@ -12,7 +12,7 @@ El proyecto consiste en la reconfiguración de una plataforma 3D a un Sistema CN
 
 ## Integrantes ##
 * Garro Medina Pablo
-* Navas Alejandro
+* Navas Alejandro Nicholas
 
 
 ### Cátedra ###
