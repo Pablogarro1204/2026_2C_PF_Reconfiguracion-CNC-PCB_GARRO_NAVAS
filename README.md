@@ -1,7 +1,8 @@
 <img width="940" height="132" alt="image" src="https://github.com/user-attachments/assets/6c156dc1-102d-42d8-81ad-6696b42e37b6" />
 
 # **Plataforma CNC para fabricación de circuitos PCB** #
-## Reconfiguración de una Plataforma 3D a un Sistema CNC Sustractivo para la Fabricación de Circuitos Impresos (PCB)
+El proyecto consiste en la reconfiguración de una Plataforma 3D a un Sistema CNC Sustractivo para el prototipado de Circuitos Impresos (PCB)
+
 ---
 
 **Facultad de Ingeniería — Universidad Nacional de Lomas de Zamora (FIUNLZ)**  
